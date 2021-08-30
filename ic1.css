@@ -1,14 +1,15 @@
 body{
-    background-color: #434343;
     display:grid; 
+    background-color: #434343;
+  
     grid-template-columns: 1fr 1fr 1fr ;
     gap: 5px;
     grid-gap:20px;
     text-align: center;
     margin-top:15%;
     margin-left:25%;
-    max-width: 12em;
-    max-height: 10rem;
+    /* max-width: 12em;
+    max-height: 10rem; */
     
     
 }
