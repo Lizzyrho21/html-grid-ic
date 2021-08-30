@@ -1,0 +1,77 @@
+body{
+    background-color: #434343;
+    display:grid; 
+    grid-template-columns: 1fr 1fr 1fr ;
+    gap: 5px;
+    grid-gap:20px;
+    text-align: center;
+    margin-top:15%;
+    margin-left:25%;
+    max-width: 12em;
+    max-height: 10rem;
+    
+    
+}
+    /* affects the whole body grid  */
+
+
+#box1{
+background-color: cornflowerblue;
+width:12em;
+height: 10rem;
+border: black solid 5px;
+
+
+}
+
+
+#box2{
+    background-color: cornflowerblue;
+    width:12em;
+height: 10rem;
+border: black solid 5px;
+
+    
+
+
+
+}
+
+
+#box3{
+    background-color: cornflowerblue;
+    width:12em;
+height: 10rem;
+border: black solid 5px;
+
+
+
+}
+
+
+#box4{
+    background-color: cornflowerblue;
+    width:12em;
+height: 10rem;
+border: black solid 5px;
+
+    
+}
+
+
+#box5{
+    background-color: cornflowerblue;
+    width:12em;
+height: 10rem;
+border: black solid 5px;
+
+}
+
+
+#box6{
+    background-color: cornflowerblue;
+    width:12em;
+height: 10rem;
+border: black solid 5px;
+
+}
